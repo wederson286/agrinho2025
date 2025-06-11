@@ -1,6 +1,6 @@
 body{
 
-background-color: rgb(183, 176, 176);/*coloca uma cor de fundo*/
+background-color: rgba(77, 154, 64, 0.7);/*coloca uma cor de fundo*/
 
 }
 
@@ -51,5 +51,10 @@ text-align: center;
 .elementos__imagem{
 width: 300px;
 height: 300px;
+border-radius: 10px;
+}
+.sobre_imagem{
+width: 200px;
+height: 200px;
 border-radius: 10px;
 }
